@@ -8,3 +8,4 @@
 * nested function
 * First-class function
 * closure function
+* decoration
