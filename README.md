@@ -9,3 +9,6 @@
 * First-class function
 * closure function
 * decoration
+
+## 3주차 : 파이썬 flask 기본과 웹기술
+* flask route함수
