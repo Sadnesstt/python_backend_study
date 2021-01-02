@@ -17,3 +17,8 @@
 
 ## 4주차 : flask로 프론트 엔드와 백엔드 구현
 * REST API 이해를 위한 웹기술: GET방식과 URL
+* REST API 이해를 위한 웹기술: GET방식과 HTML
+* bootstrap을 활용한 flask로 정적 웹페이지 지원 기법
+
+## 5주차 : flask와 보다 다양한 프론트엔드
+* flask로 프론트엔드와 백엔드 둘다 지원(Jinja2 template) - 변수, 반복문, 조건문, 주석
